@@ -1,6 +1,6 @@
-# Hi there! I'm Alina Kulinich 👋
+# Hi there! I'm Alina Kulinich 
 
-### Junior QA Engineer | Ex-Graphic Designer 🎨🔍
+### Junior QA Engineer | Ex-Graphic Designer 
 
 I bridge the gap between visual perfection and technical reliability. With a strong background in graphic design, I bring a unique "pixel-perfect" perspective to software testing, ensuring that products are not only functional but also visually flawless.
 
