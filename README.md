@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there! I'm Alina Kulinich 👋
 
-<!--
-**linabloo1987-hash/linabloo1987-hash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Junior QA Engineer | Ex-Graphic Designer 🎨🔍
 
-Here are some ideas to get you started:
+I bridge the gap between visual perfection and technical reliability. With a strong background in graphic design, I bring a unique "pixel-perfect" perspective to software testing, ensuring that products are not only functional but also visually flawless.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 My Tech Stack & Tools
+- **QA Testing:** Manual Testing, UI/UX Bug Reporting, API Testing, SQL.
+- **Tools:** Postman, DBeaver, Jira, GitHub, Chrome DevTools.
+- **Design:** Figma, Adobe Photoshop, Illustrator.
+
+---
+
+### 📁 Featured Projects
+- **[QA Portfolio](https://github.com/linabloo1987-hash/QA-Portfolio)** — My main repository with bug reports, test cases, and QA documentation.
+
+---
+
+### 📫 Let's Connect!
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/alina-kulinich-qa/)
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/Mallina_Alina)
+
+
+---
